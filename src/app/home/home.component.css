@@ -1,0 +1,22 @@
+h1{
+    font-size: 1.5em;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(50, 50, 50);
+}
+
+hr{
+    margin-top: -8px;
+    border: 0;
+    border-bottom: 1px dashed rgb(220, 220, 220);
+    background: rgb(180, 180, 180);
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8em;
+    color: rgb(45, 45, 45);
+}
+
+a{
+    color: #40739e;
+}
